@@ -1,0 +1,25 @@
+button:hover {
+    background-color: #bca0dc !important;
+  }
+  button:active {
+    background-color: #9969d0 !important;
+  }
+
+  body{
+    background: linear-gradient(120deg, #ffe53bd8, #ff2525da);
+  }
+
+  footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: linear-gradient(120deg, #ffe53bd8, #ff2525da);
+    text-align: center;
+    padding: 10px;
+  }
+  
+  footer p {
+    margin: 0;
+  }
+  
